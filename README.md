@@ -109,8 +109,8 @@ Microsoft Fabric
 ### ✔ KPI Reporting
 
 # 📫 Connect With Me
-## 📧 Email: your@email.com
+## 📧 Email: ayomideibironke40@gmail.com
 
-## 💼 LinkedIn: https://linkedin.com/in/yourusername
+## 💼 LinkedIn: 
 
-## 🌐 Portfolio: https://yourportfolio.com
+## 🌐 Portfolio: 
