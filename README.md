@@ -14,13 +14,13 @@ I enjoy solving real-world business problems using data and continuously improvi
 🌱 Currently expanding my knowledge in advanced analytics and machine learning
 
 ### 💻 Technical Skills
--Data Analysis
--Microsoft Excel
--SQL
--Python (Pandas, NumPy, Matplotlib)
--Power BI
+Data Analysis
+Microsoft Excel
+SQL
+Python (Pandas, NumPy, Matplotlib)
+Power BI
 
-###**Database**
+### Database
 SQL Server
 MySQL
 
@@ -39,3 +39,78 @@ Google Sheets
 # 📂 Featured Projects
 
 ## 📊 Sales Performance Dashboard
+
+### Tools: Excel • Power BI
+
+### Highlights
+Sales KPI Dashboard
+Revenue Analysis
+Monthly Sales Trends
+Regional Performance
+Product Performance
+
+# 👥 Customer Analysis Dashboard
+
+## Tools: SQL • Power BI
+
+### Highlights
+Customer Segmentation
+Purchase Analysis
+Customer Retention
+Revenue Contribution
+Customer Insights
+
+# 👨‍💼 HR Analytics Dashboard
+
+## Tools: Excel • Power BI
+
+### Highlights
+Employee Performance
+Staff Turnover
+Department Analysis
+Attendance Reports
+Workforce Insights
+
+# 💰 Financial Dashboard
+
+## Tools: Excel • Power BI
+
+### Highlights
+Revenue Tracking
+Expense Analysis
+Profit Monitoring
+Budget Performance
+Financial KPIs
+
+# 📚 Currently Learning
+
+### Advanced SQL
+Python for Data Analysis
+Machine Learning
+Data Storytelling
+Microsoft Fabric
+
+# 🎯 Services
+
+### ✔ Data Cleaning
+
+### ✔ Data Visualization
+
+### ✔ Dashboard Development
+
+### ✔ Excel Reporting
+
+### ✔ Power BI Dashboard Design
+
+### ✔ SQL Data Analysis
+
+### ✔ Business Intelligence
+
+### ✔ KPI Reporting
+
+# 📫 Connect With Me
+## 📧 Email: your@email.com
+
+## 💼 LinkedIn: https://linkedin.com/in/yourusername
+
+## 🌐 Portfolio: https://yourportfolio.com
